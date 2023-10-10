@@ -1,0 +1,254 @@
+version: "3.1"
+
+rules:
+
+- rule: faq 1
+  steps:
+  - intent: faq_1
+  - action: utter_faq_1
+
+- rule: faq 2
+  steps:
+  - intent: faq_2
+  - action: utter_faq_2
+
+- rule: faq 3
+  steps:
+  - intent: faq_3
+  - action: utter_faq_3
+
+- rule: faq 4
+  steps:
+  - intent: faq_4
+  - action: utter_faq_4
+
+- rule: faq 5
+  steps:
+  - intent: faq_5
+  - action: utter_faq_5
+
+- rule: faq 6
+  steps:
+  - intent: faq_6
+  - action: utter_faq_6
+
+- rule: faq 7
+  steps:
+  - intent: faq_7
+  - action: utter_faq_7
+
+- rule: faq 8
+  steps:
+  - intent: faq_8
+  - action: utter_faq_8
+
+- rule: faq 9
+  steps:
+  - intent: faq_9
+  - action: utter_faq_9
+
+- rule: faq 10
+  steps:
+  - intent: faq_10
+  - action: utter_faq_10
+
+- rule: faq 11
+  steps:
+  - intent: faq_11
+  - action: utter_faq_11
+
+- rule: faq 12
+  steps:
+  - intent: faq_12
+  - action: utter_faq_12
+
+- rule: faq 13
+  steps:
+  - intent: faq_13
+  - action: utter_faq_13
+
+- rule: faq 14
+  steps:
+  - intent: faq_14
+  - action: utter_faq_14
+
+- rule: faq 15
+  steps:
+  - intent: faq_15
+  - action: utter_faq_15
+
+- rule: faq 16
+  steps:
+  - intent: faq_16
+  - action: utter_faq_16
+
+- rule: faq 17
+  steps:
+  - intent: faq_17
+  - action: utter_faq_17
+
+- rule: faq 18
+  steps:
+  - intent: faq_18
+  - action: utter_faq_18
+
+- rule: faq 19
+  steps:
+  - intent: faq_19
+  - action: utter_faq_19
+
+- rule: faq 20
+  steps:
+  - intent: faq_20
+  - action: utter_faq_20
+
+- rule: faq 21
+  steps:
+  - intent: faq_21
+  - action: utter_faq_21
+
+- rule: faq 22
+  steps:
+  - intent: faq_22
+  - action: utter_faq_22
+
+- rule: faq 23
+  steps:
+  - intent: faq_23
+  - action: utter_faq_23
+
+- rule: faq 24
+  steps:
+  - intent: faq_24
+  - action: utter_faq_24
+
+- rule: faq 25
+  steps:
+  - intent: faq_25
+  - action: utter_faq_25
+
+- rule: faq 26
+  steps:
+  - intent: faq_26
+  - action: utter_faq_26
+
+- rule: faq 27
+  steps:
+  - intent: faq_27
+  - action: utter_faq_27
+
+- rule: faq 28
+  steps:
+  - intent: faq_28
+  - action: utter_faq_28
+
+- rule: faq 29
+  steps:
+  - intent: faq_29
+  - action: utter_faq_29
+
+- rule: faq 30
+  steps:
+  - intent: faq_30
+  - action: utter_faq_30
+
+- rule: faq 31
+  steps:
+  - intent: faq_31
+  - action: utter_faq_31
+
+- rule: faq 32
+  steps:
+  - intent: faq_32
+  - action: utter_faq_32
+
+- rule: faq 33
+  steps:
+  - intent: faq_33
+  - action: utter_faq_33
+
+- rule: faq 34
+  steps:
+  - intent: faq_34
+  - action: utter_faq_34
+
+- rule: faq 35
+  steps:
+  - intent: faq_35
+  - action: utter_faq_35
+
+- rule: faq 36
+  steps:
+  - intent: faq_36
+  - action: utter_faq_36
+
+- rule: faq 37
+  steps:
+  - intent: faq_37
+  - action: utter_faq_37
+
+- rule: faq 38
+  steps:
+  - intent: faq_38
+  - action: utter_faq_38
+
+- rule: faq 39
+  steps:
+  - intent: faq_39
+  - action: utter_faq_39
+
+- rule: faq 40
+  steps:
+  - intent: faq_40
+  - action: utter_faq_40
+
+- rule: faq 41
+  steps:
+  - intent: faq_41
+  - action: utter_faq_41
+
+- rule: faq 42
+  steps:
+  - intent: faq_42
+  - action: utter_faq_42
+
+- rule: faq 43
+  steps:
+  - intent: faq_43
+  - action: utter_faq_43
+
+- rule: faq 44
+  steps:
+  - intent: faq_44
+  - action: utter_faq_44
+
+- rule: faq 45
+  steps:
+  - intent: faq_45
+  - action: utter_faq_45
+
+- rule: faq 46
+  steps:
+  - intent: faq_46
+  - action: utter_faq_46
+
+- rule: faq 47
+  steps:
+  - intent: faq_47
+  - action: utter_faq_47
+
+- rule: faq 48
+  steps:
+  - intent: faq_48
+  - action: utter_faq_48
+
+- rule: faq 49
+  steps:
+  - intent: faq_49
+  - action: utter_faq_49
+
+- rule: faq 50
+  steps:
+  - intent: faq_50
+  - action: utter_faq_50
+

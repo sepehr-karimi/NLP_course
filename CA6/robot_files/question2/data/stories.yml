@@ -1,0 +1,22 @@
+version: "3.1"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: ask_tv
+  - action: utter_ask_tv
+  - intent: ask_tv_detail
+  - action: utter_ask_tv_detail
+  - intent: affirm
+  - action: utter_affirm
+
+- story: sad path
+  steps:
+  - intent: ask_tv
+  - action: utter_ask_tv
+  - intent: ask_tv_detail
+  - action: utter_ask_tv_detail
+  - intent: deny
+  - action: utter_deny
+

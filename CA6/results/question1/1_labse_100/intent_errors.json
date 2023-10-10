@@ -1,0 +1,162 @@
+[
+  {
+    "text": "فعال شدن سرویس اینترنت چجوریه؟",
+    "intent": "faq_1",
+    "intent_prediction": {
+      "name": "faq_2",
+      "confidence": 0.5871115326881409
+    }
+  },
+  {
+    "text": "چرا بعضی جاها 4.5 آنتن نمیده؟ پس کی درست میشه؟",
+    "intent": "faq_15",
+    "intent_prediction": {
+      "name": "faq_14",
+      "confidence": 0.6424000263214111
+    }
+  },
+  {
+    "text": "چرا مبلغ کم شده از کارت من با مبلغ اعلام شده برای بسته متفاوت است؟",
+    "intent": "faq_18",
+    "intent_prediction": {
+      "name": "faq_20",
+      "confidence": 0.31607961654663086
+    }
+  },
+  {
+    "text": "آیا اگر بسته اینترنتم رو لغو کنم پولم استرداد میشه؟",
+    "intent": "faq_19",
+    "intent_prediction": {
+      "name": "faq_39",
+      "confidence": 0.40389323234558105
+    }
+  },
+  {
+    "text": "اگر بسته اینترنتم رو لغو کنم پول بسته برمیگرده؟",
+    "intent": "faq_19",
+    "intent_prediction": {
+      "name": "faq_39",
+      "confidence": 0.29431408643722534
+    }
+  },
+  {
+    "text": "کد ستاره ۱۰۰ مربع میشه بسته پر سرعت اینترنت گرفت؟",
+    "intent": "faq_23",
+    "intent_prediction": {
+      "name": "faq_26",
+      "confidence": 0.3978155553340912
+    }
+  },
+  {
+    "text": "تفاوت ساعات مشخص با نوترینو چیه؟",
+    "intent": "faq_27",
+    "intent_prediction": {
+      "name": "faq_24",
+      "confidence": 0.41521719098091125
+    }
+  },
+  {
+    "text": "دو تا بسته ساعات مشخص به صورت همزمان میشه فعال کرد؟",
+    "intent": "faq_28",
+    "intent_prediction": {
+      "name": "faq_27",
+      "confidence": 0.23686349391937256
+    }
+  },
+  {
+    "text": "آیا ممکن است دو بسته اینترنت صبحانت با هم فعال کرد؟",
+    "intent": "faq_28",
+    "intent_prediction": {
+      "name": "faq_11",
+      "confidence": 0.08622487634420395
+    }
+  },
+  {
+    "text": "آیا در فعال سازی جفت بسته های اینترنت شبانه روزی و ساعت مشخص، محدودیتی وجود دارد ؟",
+    "intent": "faq_29",
+    "intent_prediction": {
+      "name": "faq_28",
+      "confidence": 0.2404516488313675
+    }
+  },
+  {
+    "text": "من خطم ۹۱۲ عه، می‌تونم بسته صبحانت بخرم؟",
+    "intent": "faq_30",
+    "intent_prediction": {
+      "name": "faq_31",
+      "confidence": 0.21253040432929993
+    }
+  },
+  {
+    "text": "شرایط فعال کردن بسته های ویژه مشترکین جدید چیه؟",
+    "intent": "faq_34",
+    "intent_prediction": {
+      "name": "faq_30",
+      "confidence": 0.30783843994140625
+    }
+  },
+  {
+    "text": "چرا بسته ویژه مشترکین نمیتونم بخرم؟",
+    "intent": "faq_34",
+    "intent_prediction": {
+      "name": "faq_33",
+      "confidence": 0.26034700870513916
+    }
+  },
+  {
+    "text": "من میخوام بسته ویژه مشترکین جدید بخرم ولی خطا میده، سیم کارتمم تازه خریدم.",
+    "intent": "faq_34",
+    "intent_prediction": {
+      "name": "faq_33",
+      "confidence": 0.4178250730037689
+    }
+  },
+  {
+    "text": "میشه بهم بگید چقدر از بسته نتم مونده؟ خطم اعتباریه با استفاده از کد دستوری",
+    "intent": "faq_36",
+    "intent_prediction": {
+      "name": "faq_35",
+      "confidence": 0.20615756511688232
+    }
+  },
+  {
+    "text": "چطور میتونم بسته اینترنتم رو با کد دستوری عوض کنم؟",
+    "intent": "faq_39",
+    "intent_prediction": {
+      "name": "faq_19",
+      "confidence": 0.6818765997886658
+    }
+  },
+  {
+    "text": "بسته اینترنت رزروم اگر فعال بشه بهم اطلاع داده میشه؟",
+    "intent": "faq_41",
+    "intent_prediction": {
+      "name": "faq_44",
+      "confidence": 0.7258814573287964
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم تمدید شده؟",
+    "intent": "faq_41",
+    "intent_prediction": {
+      "name": "faq_42",
+      "confidence": 0.2916044294834137
+    }
+  },
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا بهم پیامک میشه که فعال شده؟",
+    "intent": "faq_44",
+    "intent_prediction": {
+      "name": "faq_41",
+      "confidence": 0.9403175711631775
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم فعال شده؟",
+    "intent": "faq_44",
+    "intent_prediction": {
+      "name": "faq_41",
+      "confidence": 0.684916079044342
+    }
+  }
+]
